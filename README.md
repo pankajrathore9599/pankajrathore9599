@@ -66,13 +66,13 @@ I've been doing coding for the past 7 years, and I experienced lots of things th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/pankajrathore9599"><img src="https://github-readme-stats.vercel.app/api?username=pankajrathore9599&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="pankajrathore9599's GitHub stats" /></a>
+<a href="http://www.github.com/pankajrathore9599"><img src="https://github-readme-stats.vercel.app/api?username=pankajrathore9599&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true&show_icons=true" alt="pankajrathore9599's GitHub stats" /></a>
 
-<a href="http://www.github.com/pankajrathore9599"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajrathore9599&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/pankajrathore9599"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajrathore9599&stroke=000000&background=ffffff&ring=0f172a&fire=0f172a&currStreakNum=000000&currStreakLabel=0f172a&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-<a href="http://www.github.com/pankajrathore9599"><img src="https://activity-graph.herokuapp.com/graph?username=pankajrathore9599&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/pankajrathore9599"><img src="https://activity-graph.herokuapp.com/graph?username=pankajrathore9599&bg_color=ffffff&color=000000&line=a855f7&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/pankajrathore9599" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajrathore9599&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/pankajrathore9599" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajrathore9599&langs_count=10&title_color=0f172a&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
