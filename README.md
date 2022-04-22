@@ -1,4 +1,4 @@
-Hi 👋 My name is Pankaj Rathore
+Hi 👋 My name is Pankaj Singh Rathore
 ===============================
 
 Blockchain Developer | Data Scientist | Technical Writer.
