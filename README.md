@@ -8,7 +8,7 @@ I've been doing coding for the past 7 years, and I experienced lots of things th
 
 * 🌍  I'm based in INDIA
 * ✉️  You can contact me at [pankajsinghrathore9599@gmail.com](mailto:pankajsinghrathore9599@gmail.com)
-* 🧠  I'm learning Quantum Computing
+* 🧠  I'have experiece in C, Python, JavaScript, Solidity, Rust & WASM.
 * 🤝  I'm open to collaborating on Daaps, NFT, DeFi, Crypto Bots, Blockchain, Projects
 * ⚡  I'm secretly ghost... don't tell anyone........
 
