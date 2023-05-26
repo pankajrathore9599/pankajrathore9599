@@ -1,7 +1,7 @@
 Hi 👋 My name is Pankaj Singh Rathore
 =====================================
 
-Software Engineer | Blockchain Developer | Techgeek.
+I am Software Engineer | Blockchain Developer | Techgeek.
 ---------------------------------------------------------
 
 I've been doing coding for the past 7 years, and I experienced lots of things that are more important for beginners and professionals sometimes, so here I am going to share all those things with you. stay tuned.
